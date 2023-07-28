@@ -1,0 +1,4 @@
+name: tntSnow
+version: '1.0-SNAPSHOT'
+main: com.ldh.tntsnow.TntSnow
+api-version: '1.20'

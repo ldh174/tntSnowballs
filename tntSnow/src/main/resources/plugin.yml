@@ -1,0 +1,4 @@
+name: tntSnow
+version: '${project.version}'
+main: com.ldh.tntsnow.TntSnow
+api-version: '1.20'
